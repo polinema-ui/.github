@@ -1,54 +1,63 @@
 <div align="center">
 
-<h1>Welcome to Polinema UI ⚡</h1>
-<p><b>Copy-paste UI components engineered for enterprise applications & academic systems.</b></p>
+<h1>Welcome to Polinema/ui</h1>
+<p><b>Copy-paste UI components for academic systems and modern web apps.</b></p>
 
-<a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/Bootstrap-v5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5"></a>
-<a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"></a>
-<a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
+<a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/Bootstrap-v5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5"></a> <a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss" alt="Tailwind CSS v4"></a> <a href="https://github.com/polinema-ui"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
 
 </div>
 
 ---
 
-### 📌 About Polinema UI
+### About
 
-Polinema UI is an open-source UI component collection combining the simplicity of **Bootstrap 5** with the modern utility power of **Tailwind CSS v4**. Inspired by the **shadcn component model** (code ownership over rigid NPM dependencies), it gives developers 100% control over design customization for academic portals, admin dashboards, and enterprise platforms.
+Polinema UI is an open-source collection of reusable UI components for academic systems, dashboards, and modern web applications.
 
----
+Inspired by the copy-paste approach of shadcn, Polinema UI gives you the source code instead of locking you into a rigid component library. Take what you need, change what you want, and make it yours.
 
-### ✨ Key Features
+### What We Build
 
-- **Hybrid Architecture:** Integrates Bootstrap's structural grid with Tailwind CSS v4's flexible utility classes.
-- **Copy & Paste Model:** No complex package setup—copy component source code straight into your project.
-- **Enterprise & Academic Focus:** Pre-designed for complex data tables, multi-step forms, and analytics dashboards.
-- **Fully Customizable:** Zero theme locking; modify markup and utility classes directly.
+* **Reusable components**
+  Built to be copied, customized, and reused.
 
----
+* **Hybrid UI**
+  Bootstrap 5 structure with Tailwind CSS v4 utilities.
 
-### 🌐 Ecosystem Repositories
+* **Built for real apps**
+  Forms, tables, dashboards, navigation, and more.
 
-| Repository                                            | Description                                                | Status            |
-| :---------------------------------------------------- | :--------------------------------------------------------- | :---------------- |
-| [**website**](https://github.com/polinema-ui/website) | Main documentation site and interactive component showcase | 🚧 In Development |
-| [**package**](https://github.com/polinema-ui/cli)     | Core UI component source code and template definitions     | 🚀 Active         |
+* **No lock-in**
+  You own the code and can customize it however you want.
 
----
+* **Developer-friendly**
+  Simple setup without unnecessary complexity.
 
-### 🤝 Contributing
+### Ecosystem
 
-We welcome contributions of all kinds! If you'd like to help build new components or improve existing code:
+| Repository                                            | Description                          | Status         |
+| :---------------------------------------------------- | :----------------------------------- | :------------- |
+| [**website**](https://github.com/polinema-ui/website) | Documentation and component showcase | In Development |
+| [**cli**](https://github.com/polinema-ui/cli)         | Core components and templates        | Active         |
 
-1. Fork the target repository.
-2. Create your feature branch (`git checkout -b feat/new-component`).
-3. Commit your changes (`git commit -m 'Add new Data Table component'`).
-4. Push to the branch and open a Pull Request.
+### Contributing
 
----
+Found something that could be better? Want to build a new component?
 
-### 👥 Maintainers
+1. Fork the repository.
+2. Create your branch.
 
-Maintained with ❤️ by:
+   ```bash
+   git checkout -b feat/new-component
+   ```
+3. Make your changes.
+4. Commit and push.
+5. Open a Pull Request.
 
-- [@a6iyyu](https://github.com/a6iyyu)
-- [@ckckckcz](https://github.com/ckckckcz)
+Whether it is a new component, a bug fix, or better documentation, contributions are always welcome.
+
+### Maintainers
+
+Maintained by:
+
+* [@a6iyyu](https://github.com/a6iyyu)
+* [@ckckckcz](https://github.com/ckckckcz)
