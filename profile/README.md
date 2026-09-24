@@ -37,7 +37,7 @@ Inspired by the copy-paste approach of shadcn, Polinema UI gives you the source 
 | Repository                                            | Description                          | Status         |
 | :---------------------------------------------------- | :----------------------------------- | :------------- |
 | [**website**](https://github.com/polinema-ui/website) | Documentation and component showcase | In Development |
-| [**cli**](https://github.com/polinema-ui/cli)         | Core components and templates        | Active         |
+| [**cli**](https://github.com/polinema-ui/cli)         | Core components and templates        | -              |
 
 ### Contributing
 
